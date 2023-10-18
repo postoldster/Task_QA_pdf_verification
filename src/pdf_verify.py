@@ -61,7 +61,3 @@ def check_text():
     check_text_pos(left_block_pos)
     check_text_pos(right_block_pos)
 
-# check_title_pos()
-# check_notes_pos()
-# check_barcode_pn()
-# check_barcode_qty()
